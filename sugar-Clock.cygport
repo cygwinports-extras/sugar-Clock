@@ -1,0 +1,5 @@
+NAME="sugar-Clock"
+VERSION=12
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
